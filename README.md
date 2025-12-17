@@ -34,6 +34,7 @@ Delivery Logistics: Analyzing average delivery times and serviceability gaps.
 **3. Interactive Dashboard (Power BI)**
    
 Built a dynamic dashboard to visualize:
+
 <img width="1102" height="622" alt="Screenshot 2025-12-17 212047" src="https://github.com/user-attachments/assets/c93bc373-cec9-4026-afaa-98c32f701a4d" />
 
 
