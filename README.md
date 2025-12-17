@@ -1,10 +1,10 @@
-#Quick Commerce Analysis: Blinkit vs. JioMart vs. Instamart
+# Quick Commerce Analysis: Blinkit vs. JioMart vs. Instamart
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This is an end-to-end data analytics project that compares the three giants of India's Quick Commerce sector: Blinkit, JioMart, and Swiggy Instamart. The goal was to analyze pricing strategies, delivery performance, and product availability to determine market positioning and operational efficiency.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **Data Cleaning & ETL:** Python (Pandas)
 
@@ -14,7 +14,7 @@ This is an end-to-end data analytics project that compares the three giants of I
 
 * **Documentation:** Markdown
 
-##🚀 Workflow
+## 🚀 Workflow
 
 **1. ETL & Data Preprocessing (Pandas)**
 
@@ -38,7 +38,7 @@ Built a dynamic dashboard to visualize:
 
 
 
-##📊 Key Insights
+## 📊 Key Insights
 
 Blinkit leads in delivery speed for "Impulse Buy" categories.
 
